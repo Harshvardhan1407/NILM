@@ -2,8 +2,8 @@
 
 Brief NILM approach :
 
-FHMM Model :
-
+**FHMM Model :
+**
 
 The FHMM is an advanced approach to model the combined behavior of multiple hidden Markov models (HMMs), each representing the state of an individual appliance.
 Here's an explanation of how the model works:
@@ -43,7 +43,7 @@ The model can help in energy-saving efforts by identifying which appliances cons
 
 
 
-CO Model:
+**CO Model:**
 
  The CO model works by finding the best combination of appliance states that can explain the observed aggregate power consumption at each time step.
 
