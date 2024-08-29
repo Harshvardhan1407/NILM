@@ -43,7 +43,7 @@ The model can help in energy-saving efforts by identifying which appliances cons
 
 
 
-**CO Model:**
+****CO Model:****
 
  The CO model works by finding the best combination of appliance states that can explain the observed aggregate power consumption at each time step.
 
